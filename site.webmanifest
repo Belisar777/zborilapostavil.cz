@@ -1,7 +1,7 @@
 {
 	"name": "zborilapostavil.cz",
 	"short_name": "Bourací a stavební práce",
-	"description": "Poskytujeme stavební a bourací práce.",
+	"description": "Poskytujeme rychle a spolehlivě stavební a bourací práce.",
 	"start_url": "/index.html",
 	"display": "standalone",
 	"background_color": "#ffffff",
